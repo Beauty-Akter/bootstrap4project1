@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;}
+.body1{
+    background-image: url('assets/images/Desert.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+nav{
+    color: white;
+}
+.body1 ul li a{
+    color: white;
+}
+.box-shadow{
+    box-shadow: 10px 10px 8px #888888;
+
+}
+.thank{color:red;}
